@@ -1,4 +1,4 @@
-# 🌾 KrishiSetu: The Complete A-Z Documentation
+# 🌾 KrishiSetu
 
 ## 📋 Table of Contents
 
