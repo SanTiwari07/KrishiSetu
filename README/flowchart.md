@@ -1,7 +1,7 @@
-# 🌾 AgroChain - Complete Process Flowchart
+# 🌾 KrishiSetu - Complete Process Flowchart
 
 ## Overview
-This document provides a comprehensive flowchart of the AgroChain blockchain-based agricultural supply chain transparency system.
+This document provides a comprehensive flowchart of the KrishiSetu blockchain-based agricultural supply chain transparency system.
 
 ---
 
@@ -9,7 +9,7 @@ This document provides a comprehensive flowchart of the AgroChain blockchain-bas
 
 ```mermaid
 graph TB
-    A[🚀 AgroChain-Launcher.ps1] --> B[🔧 System Prerequisites Check]
+    A[🚀 KrishiSetu-Launcher.ps1] --> B[🔧 System Prerequisites Check]
     B --> C[📦 Install Dependencies]
     C --> D[⛓️ Start Hardhat Blockchain]
     D --> E[📝 Deploy Smart Contract]
@@ -269,7 +269,7 @@ graph TD
 
 ```mermaid
 flowchart TD
-    A[Run AgroChain-Launcher.ps1] --> B[Check Prerequisites]
+    A[Run KrishiSetu-Launcher.ps1] --> B[Check Prerequisites]
     B --> C{Node.js & npm?}
     C -->|No| D[Install Node.js]
     C -->|Yes| E[Install Global Tools]
@@ -409,4 +409,4 @@ flowchart LR
 
 ---
 
-This flowchart provides a complete overview of the AgroChain system, from technical architecture to user workflows and deployment processes. Each section can be referenced for understanding specific aspects of the application flow.
+This flowchart provides a complete overview of the KrishiSetu system, from technical architecture to user workflows and deployment processes. Each section can be referenced for understanding specific aspects of the application flow.

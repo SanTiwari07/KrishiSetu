@@ -2,7 +2,7 @@
 
 ## ✅ Migration Complete!
 
-Your AgroChain project has been successfully migrated to a new Firebase project with a different Gmail account.
+Your KrishiSetu project has been successfully migrated to a new Firebase project with a different Gmail account.
 
 ## 📊 Changes Made
 
@@ -78,4 +78,4 @@ Your migration is successful when:
 
 ---
 
-**🎉 Congratulations! Your AgroChain project is now running on your new Firebase account!**
+**🎉 Congratulations! Your KrishiSetu project is now running on your new Firebase account!**

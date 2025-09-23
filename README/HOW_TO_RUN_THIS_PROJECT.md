@@ -1,4 +1,4 @@
-# 🚀 How to Run AgroChain Project - Complete A to Z Guide
+# 🚀 How to Run KrishiSetu Project - Complete A to Z Guide
 
 ## Table of Contents
 1. [Prerequisites](#prerequisites)
@@ -31,7 +31,7 @@
 
 ## Project Overview
 
-**AgroChain** is a blockchain-powered agricultural supply chain management platform with:
+**KrishiSetu** is a blockchain-powered agricultural supply chain management platform with:
 - **Frontend**: React + TypeScript + Vite
 - **Backend**: Firebase (Authentication + Firestore)
 - **Blockchain**: Ethereum smart contracts (Hardhat)
@@ -98,12 +98,12 @@ MyWork+Sham/
 
 ### 2.1 Download Project
 **Option A: If you have the project files**
-- Extract the project to a folder (e.g., `C:\Users\YourName\Desktop\AgroChain`)
+- Extract the project to a folder (e.g., `C:\Users\YourName\Desktop\KrishiSetu`)
 
 **Option B: If cloning from repository**
 ```bash
 git clone <repository-url>
-cd AgroChain
+cd KrishiSetu
 ```
 
 ### 2.2 Verify Project Structure
@@ -164,7 +164,7 @@ MyWork+Sham/
    - In Firebase Console, go to "Project Settings" (gear icon)
    - Scroll down to "Your apps" section
    - Click "Web" icon (`</>`)
-   - App nickname: `AgroChain Web`
+   - App nickname: `KrishiSetu Web`
    - Check "Also set up Firebase Hosting"
    - Click "Register app"
 
@@ -280,7 +280,7 @@ MyWork+Sham/
    - Click "Add network"
    - Click "Add a network manually"
    - Fill in these details:
-     - **Network Name**: `AgroChain Local`
+   - **Network Name**: `KrishiSetu Local`
      - **RPC URL**: `http://127.0.0.1:8545`
      - **Chain ID**: `31337`
      - **Currency Symbol**: `ETH`
@@ -352,7 +352,7 @@ npm run dev
 ### 6.2 Verify Everything is Working
 1. **Check Browser**:
    - Application should open at `http://localhost:3000`
-   - You should see the AgroChain homepage
+   - You should see the KrishiSetu homepage
 
 2. **Test Firebase Connection**:
    - Try to sign up for a new account
@@ -535,6 +535,6 @@ firebase deploy
 
 ---
 
-**🎉 Congratulations! You now have AgroChain running locally with full blockchain and Firebase integration!**
+**🎉 Congratulations! You now have KrishiSetu running locally with full blockchain and Firebase integration!**
 
 *This guide covers everything from A to Z. Follow each step carefully for the best results.*

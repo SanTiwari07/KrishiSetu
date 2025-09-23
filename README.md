@@ -1,4 +1,4 @@
-# 🌾 AgroChain: The Complete A-Z Documentation
+# 🌾 KrishiSetu: The Complete A-Z Documentation
 
 ## 📋 Table of Contents
 
@@ -23,8 +23,8 @@
 
 ## 🎯 Project Overview
 
-### What is AgroChain?
-**AgroChain** is a comprehensive **full-stack agricultural supply chain management system** that leverages **blockchain technology**, **Firebase cloud services**, and **modern web technologies** to create a transparent, traceable, and secure platform for tracking agricultural products from farm to consumer.
+### What is KrishiSetu?
+**KrishiSetu** is a comprehensive **full-stack agricultural supply chain management system** that leverages **blockchain technology**, **Firebase cloud services**, and **modern web technologies** to create a transparent, traceable, and secure platform for tracking agricultural products from farm to consumer.
 
 ### Problem Statement
 - **Lack of transparency** in food supply chains
@@ -35,7 +35,7 @@
 - **Consumer trust issues** regarding product authenticity
 
 ### Solution Approach
-AgroChain solves these problems through:
+KrishiSetu solves these problems through:
 - **Immutable blockchain records** for complete transparency
 - **QR code-based product tracking** for instant verification
 - **Multi-stakeholder platform** connecting all supply chain actors
@@ -46,7 +46,7 @@ AgroChain solves these problems through:
 
 ## Simple Guide
 
-### What is AgroChain?
+### What is KrishiSetu?
 - Imagine a special notebook where once you write, no one can erase. That’s the blockchain. We write the crop’s story there.
 
 ### Who uses it?

@@ -256,7 +256,7 @@ export function DistributorDashboard({ onLogout }: DistributorDashboardProps) {
                   <div>
                     <p className="text-muted-foreground">Total Investment</p>
                     <p className="text-2xl font-bold text-foreground">
-                      ₹{purchases.reduce((sum, purchase) => sum + purchase.handlingCost, 0).toLocaleString()}
+                      ₹{purchases.reduce((sum, purchase) => sum + (purchase.weight * purchase.handlingCost), 0).toLocaleString()}
                     </p>
                   </div>
                   <TrendingUp className="w-8 h-8 text-lime-600" />

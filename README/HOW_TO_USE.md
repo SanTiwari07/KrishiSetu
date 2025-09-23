@@ -1,4 +1,4 @@
-# 🌾 AgroChain - How to Use Guide
+# 🌾 KrishiSetu - How to Use Guide
 
 ## Table of Contents
 1. [Getting Started](#getting-started)
@@ -16,7 +16,7 @@
 
 ## Getting Started
 
-### Accessing AgroChain
+### Accessing KrishiSetu
 1. **Visit the Website**: Go to [https://sih-agro-chain.web.app](https://sih-agro-chain.web.app)
 2. **Choose Your Role**: Select from Farmer, Distributor, Retailer, or Customer
 3. **Create Account**: Sign up with your email and role-specific information
@@ -158,7 +158,7 @@
 ### Connecting MetaMask
 1. **Install MetaMask**: Browser extension for blockchain access
 2. **Create Wallet**: Set up MetaMask account
-3. **Connect to AgroChain**: Click "Connect Wallet" in dashboard
+3. **Connect to KrishiSetu**: Click "Connect Wallet" in dashboard
 4. **Confirm Connection**: Approve connection in MetaMask
 
 ### Blockchain Transactions
@@ -258,13 +258,13 @@
 - **Documentation**: This guide
 
 ### Contact Information
-- **Project**: AgroChain - Smart India Hackathon
+- **Project**: KrishiSetu - Smart India Hackathon
 - **Version**: 1.0.0
 - **Last Updated**: 2024
 
 ---
 
-**🌾 Welcome to AgroChain - Your Complete Agricultural Supply Chain Solution!**
+**🌾 Welcome to KrishiSetu - Your Complete Agricultural Supply Chain Solution!**
 
 *This guide covers all major features and usage patterns. For specific questions or advanced features, please refer to the detailed documentation or contact support.*
 

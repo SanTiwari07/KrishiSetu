@@ -461,7 +461,7 @@ const txHash = await blockchainService.registerProduct(
 
 #### 2. **MetaMask Configuration**
 ```
-Network Name: AgroChain Local
+Network Name: KrishiSetu Local
 RPC URL: http://127.0.0.1:8545
 Chain ID: 31337
 Currency Symbol: ETH
