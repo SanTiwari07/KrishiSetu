@@ -2695,4 +2695,3 @@ const trackUserAction = (action: string, category: string, label?: string) => {
 
 ---
 
-*This documentation represents a comprehensive analysis of the AgroChain project as of January 2024. The system is actively deployed and operational at https://sih-agro-chain.web.app*
