@@ -67,3 +67,18 @@ node_modules/
 
 # dataconnect generated files
 .dataconnect
+
+
+# Node
+node_modules/
+frontendNbackend/node_modules/
+
+# Blockchain cache
+cache/
+Blockchain/**/cache/
+
+# Vite
+.vite/
+
+# OS
+.DS_Store
